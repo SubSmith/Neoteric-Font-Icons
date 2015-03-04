@@ -45,8 +45,8 @@ of those sections to manage the look and feel of the site. */
     background: #eee;
 }
 
-.services-section {
-    height: 100%;
+.icon-section {
+    height: auto;
     padding-top: 150px;
     text-align: center;
     background: #fff;
