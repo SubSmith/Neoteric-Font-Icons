@@ -58,7 +58,15 @@ of those sections to manage the look and feel of the site. */
     text-align: center;
     background: #eee;
 }
-
-.pad {
-    padding: 0.5em;
+@media(min-width:767px) {
+    .pad {
+        padding: 0.5em;
+        text-align: start;
+    }
+}    
+@media(max-width:767px) {
+    .pad {
+        padding: 0.5em;
+        text-align: center;
+    }
 }
