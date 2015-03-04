@@ -23,8 +23,7 @@ Get started
 
 <b>Use this method to get the default Font Awesome CSS.</b>
 
-Copy the entire Neoretic-Font directory into your project.
-In the <head> of your html, reference the location to your Neoteric-Font.css.
+Copy the entire Neoretic-Font directory into your project. In the <head> of your html, reference the location to your Neoteric-Font.css.
 ```
     <link rel="stylesheet" href="path/to/Neoteric-Font/css/Neoteric-Font.css" />
 ```
